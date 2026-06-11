@@ -1,10 +1,18 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&customColorList=0,2,3,12,24&section=header&text=Syed%20Maaz%20Ashraf&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20AI%20Integrations&descAlignY=55&descSize=20"/>
+  <img src="https://github.com/Maazashraf7.png" alt="Syed Maaz Ashraf" width="280" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=500&lines=Building+%3C%2F%3E+with+passion;Full+Stack+%7C+MERN+%26+Next.js;AI+%26+Agentic+Workflow+Explorer;1.6%2B+Years+of+Production+Experience" alt="Typing SVG" />
+  <strong>Full Stack Developer | MERN & AI Integrations</strong><br />
+  Building strong web apps with React, Next.js, Angular, Node.js, and PostgreSQL.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-1.6%2B%20Years-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Production%20Projects-8-0F6E56?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/International%20Clients-US-185FA5?style=for-the-badge&logo=github&logoColor=white" alt="Clients" />
+  <img src="https://img.shields.io/badge/Tech%20Stacks-5%2B-854F0B?style=for-the-badge&logo=github&logoColor=white" alt="Tech Stacks" />
 </p>
 
 <p align="center">
