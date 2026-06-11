@@ -1,281 +1,104 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/Maazashraf7.png" alt="Syed Maaz Ashraf" width="280" />
+  <img src="https://github.com/Maazashraf7.png" alt="Syed Maaz Ashraf" width="200" />
 </p>
 
-<p align="center">
-  <strong>Full Stack Developer | MERN & AI Integrations</strong><br />
-  Building strong web apps with React, Next.js, Angular, Node.js, and PostgreSQL.
-</p>
+<h1 align="center">Syed Maaz Ashraf</h1>
+<p align="center">Full Stack Engineer focused on scalable SaaS, AI workflows, and production-ready web platforms.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-1.6%2B%20Years-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Production%20Projects-8-0F6E56?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  <img src="https://img.shields.io/badge/International%20Clients-US-185FA5?style=for-the-badge&logo=github&logoColor=white" alt="Clients" />
-  <img src="https://img.shields.io/badge/Tech%20Stacks-5%2B-854F0B?style=for-the-badge&logo=github&logoColor=white" alt="Tech Stacks" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maazashraf7&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Maazashraf7?label=Followers&style=social" alt="followers" />
+  <a href="mailto:syedmaazashraf7@gmail.com"><img src="https://img.shields.io/badge/Email-syedmaazashraf7%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Maazashraf7"><img src="https://img.shields.io/github/followers/Maazashraf7?label=GitHub&style=flat&logo=github&logoColor=white" alt="GitHub followers"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-## 💫 About Me
+## 💡 Summary
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+Engineer with a delivery-driven approach to full stack web products, specializing in:
 
-🚀 **1.6+ years** building production-grade SaaS, CRM, AI Automation, Marketplace & Analytics platforms
+- Production-grade SaaS and CRM systems
+- AI-powered automation and agentic workflows
+- Modern JavaScript stacks: React, Next.js, Angular, Node.js
+- Data-backed products using PostgreSQL and MongoDB
 
-🔭 Currently building **scalable web apps** with React.js, Next.js, Angular, Node.js & PostgreSQL
-
-🤖 Exploring **AI Integrations, Agentic Workflows & Automation**
-
-🌱 Learning **Cloud Architecture, Scalable Systems & Product Engineering**
-
-💬 Ask me about **MERN, JavaScript, or AI Integration**
-
-⚡ Fun fact: **I debug with `console.log()` and it works 60% of the time, every time!**
-
-🎯 2025 Goal: **Contribute to 12+ open source projects**
-
-📫 Reach me: **syedmaazashraf7@gmail.com**
-
-<br clear="right"/>
+I solve problems with clean architecture, iterative delivery, and strong collaboration.
 
 ---
 
-## 📊 Stats at a Glance
+## 🚀 Focus Areas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-1.6%2B%20Years-4F46E5?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Production%20Projects-8-0F6E56?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/International%20Clients-US-185FA5?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tech%20Stacks-5%2B-854F0B?style=for-the-badge&logoColor=white"/>
-</p>
+- **Product Engineering:** scoped and shipped eight production projects for global clients
+- **AI Integration:** built automation pipelines with OpenAI, LangChain, and RAG workflows
+- **Platform Development:** designed responsive, maintainable web apps and internal dashboards
+- **Cloud Enablement:** deployed apps on Vercel, Netlify, and containerized environments
 
 ---
 
-## 🏗️ Production Projects
+## 📌 Selected Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Employee Evaluation Agent</h3>
-      <p>Automated evaluation pipeline powered by LLM APIs and agentic workflows</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Agentic_AI-6B48FF?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💬 Customer Support CRM</h3>
-      <p>End-to-end CRM platform with ticketing, analytics and team management</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>👥 HRM System</h3>
-      <p>Human resource management SaaS — payroll, attendance and onboarding</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🏢 Franchise India</h3>
-      <p>Franchise marketplace connecting investors and business owners across India</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📰 AP News Bihar</h3>
-      <p>Regional news platform with CMS, live feeds and SEO optimisation</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧭 Ride With Guide</h3>
-      <p>Travel & guided tour booking platform with real-time ride tracking</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🍽️ Padoshi Kitchen</h3>
-      <p>Food ordering and kitchen management platform with delivery flow</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📊 ScribeCount <sup>🇺🇸 US Client</sup></h3>
-      <p>Analytics SaaS for authors tracking book sales across multiple platforms</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🤖 AI Employee Evaluation Agent
+- Built an AI-first evaluation workflow using Next.js, Node.js, and OpenAI
+- Delivered automation for review generation, scoring, and intelligent feedback
+
+### 💬 Customer Support CRM
+- Developed an analytics-backed CRM with ticketing, reporting, and team management
+- Backend built with Node.js and PostgreSQL; frontend in React
+
+### 👥 HRM System
+- Delivered payroll, attendance, and onboarding features for HR operations
+- Built with React, Express, and MongoDB to support scalable user workflows
+
+### 🏢 Franchise India
+- Developed a marketplace platform for investors and business owners across India
+- Used Next.js, Node.js, and MongoDB for search and listing management
+
+### 🧭 Ride With Guide
+- Created a real-time tour booking and ride tracking web app
+- Implemented customer workflows, booking management, and live updates
+
+### 📊 ScribeCount
+- Built a sales analytics platform for authors tracking distribution performance
+- Used React, Node.js, and PostgreSQL for reporting and data visualization
 
 ---
 
-## 🚀 Tech Arsenal
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+### Frontend
+React · Next.js · Angular · TypeScript · JavaScript · Tailwind CSS · Redux
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### Backend
+Node.js · Express · Python · REST APIs · GraphQL
 
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+### Database & Cloud
+PostgreSQL · MongoDB · Firebase · Vercel · Netlify · Docker
 
-### 🤖 AI & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-6B48FF?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+### AI & Automation
+OpenAI · LangChain · RAG · Agentic workflows
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/Maazashraf7/food-recommendation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maazashraf7&repo=food-recommendation-system&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/Maazashraf7/room-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maazashraf7&repo=room-manager&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/Maazashraf7/library-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maazashraf7&repo=library-management&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/Maazashraf7/experiments-maaz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maazashraf7&repo=experiments-maaz&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</div>
+- [food-recommendation-system](https://github.com/Maazashraf7/food-recommendation-system)
+- [room-manager](https://github.com/Maazashraf7/room-manager)
+- [library-management](https://github.com/Maazashraf7/library-management)
+- [experiments-maaz](https://github.com/Maazashraf7/experiments-maaz)
 
 ---
 
-## 📊 GitHub Analytics
+## 📫 Contact
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maazashraf7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maazashraf7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Maazashraf7&theme=tokyonight&hide_border=true" />
-</div>
+- Email: [syedmaazashraf7@gmail.com](mailto:syedmaazashraf7@gmail.com)
+- GitHub: [github.com/Maazashraf7](https://github.com/Maazashraf7)
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maazashraf7&theme=tokyo-night&hide_border=true&area=true&custom_title=Maaz's%20Contribution%20Graph" width="95%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maazashraf7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
-
----
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n6rnnj7nbjmkqj6bh6pkt4h4ea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</p>
-
----
-
-## 🐍 Watch Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:syedmaazashraf7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=black"/>
-  </a>
-</p>
+<em>Open to collaboration on SaaS products, AI automation, and developer-focused platforms.</em>
 
 ---
 
